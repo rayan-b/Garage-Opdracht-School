@@ -1,0 +1,15 @@
+body {
+    background-image: url(images/auto-collectie-1.jpg);
+    background-size: cover;
+    /* background-attachment: fixed; */
+    /* background-repeat: no-repeat; */
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 0 2px black;
+}
